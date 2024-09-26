@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background hitam -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M0,0h108v108h-108z" />
+    <!-- Taburan putih -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M10,10h5v5h-5zM20,20h5v5h-5zM30,30h5v5h-5zM40,40h5v5h-5zM50,50h5v5h-5zM60,60h5v5h-5zM70,70h5v5h-5zM80,80h5v5h-5zM90,90h5v5h-5zM100,100h5v5h-5z" />
+</vector>
